@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Door_TF_s1084833"
